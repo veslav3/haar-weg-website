@@ -6,10 +6,10 @@ export function Header() {
                     <a href="#home" className="logo">
                         <img
                             src="/logo.png"
-                            alt="Haar Weg Logo"
+                            alt="Jacqueline Official Hairstyle Logo"
                             className="logo-image"
                         />
-                        <span className="logo-text">Haar Weg</span>
+                        <span className="logo-text">Jacqueline Official Hairstyle</span>
                     </a>
                     <ul className="nav-links">
                         <li>

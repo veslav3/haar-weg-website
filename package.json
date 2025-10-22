@@ -1,7 +1,7 @@
 {
-  "name": "haar-weg-website",
+  "name": "jacqueline-official-hairstyle-website",
   "version": "1.0.0",
-  "description": "Hairdresser website for Haar-Weg",
+  "description": "Hairdresser website for Jacqueline Official Hairstyle",
   "main": "index.js",
   "scripts": {
     "dev": "vite",

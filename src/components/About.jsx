@@ -4,9 +4,9 @@ export function About() {
       <div className="container">
         <div className="about-content">
           <div className="about-text">
-            <h2>Over Haar Weg</h2>
+            <h2>Over Jacqueline Official Hairstyle</h2>
             <p>
-              Met veel ervaring in de haarindustrie heeft Haar Weg looks getransformeerd
+              Met veel ervaring in de haarindustrie heeft Jacqueline Official Hairstyle looks getransformeerd
               en het zelfvertrouwen in onze gemeenschap vergroot. Onze passie voor haarkunst en
               toewijding aan uitmuntendheid heeft ons een vertrouwde naam gemaakt in professionele haarverzorging.
             </p>

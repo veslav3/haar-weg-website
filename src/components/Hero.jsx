@@ -6,7 +6,7 @@ export function Hero() {
     return (
         <section id="home" className="hero">
             <div className="container">
-                <h1>Welkom bij Haar Weg</h1>
+                <h1>Welkom bij Jacqueline Official Hairstyle</h1>
                 <p>
                     Uw vertrouwde professionele kapper voor uitzonderlijke
                     knippen, styling en haarbehandelingen. Transformeer uw look
